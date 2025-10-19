@@ -2,3 +2,8 @@
 Smart contracts can significantly enhance administrative efficiency for brick-and-mortar retailers. By automating payment processes to contractors, digitizing payroll administration, and providing real-time tracking, retailers can reduce burdensome tasks. Additionally, using blockchain identifiers on inventory units improves supply chain visibility.
 
 In this sector, XMoney enables seamless cryptocurrency payments for retailers, helping them save on transaction fees and attract tech-savvy customers. This platform offers retailers a way to manage digital payments efficiently, while consumers enjoy the convenience and security of using cryptocurrencies for everyday purchases. This innovative approach helps retailers streamline operations and improve their bottom line.
+
+Group : Akiko
+Member:
+1.Nguyen Anh Tuan-mssv:24100324
+2.Nguyen Dang Manh-mssv:24106113
